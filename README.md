@@ -54,16 +54,32 @@ Connectez-vous à votre compte [en cliquant ici](https://developers.facebook.com
    En cliquant sur new app, ce formulaire s'ouvrira vous demandans des précisions sur 
    l'utilisation que vous allez faire de votre application. Dans cette page nous choisirons la première option (Gérer les intégrations professionnelles) 
 
-   ![New application ](tuto-images/usage.png)
+   ![usage de l'application ](tuto-images/usage.png)
 
    En suite créer l'id de l'application en remplissant le formulaire suivant. 
 
-   ![New application ](tuto-images/app-id.png)
+   ![Creation de l'id ](tuto-images/app-id.png)
 
    Renseigner le nom d'usage de l'application et le but de votre application. Comme but, nous allons choisir (Vous même et votre entreprise). Après cette étape, vous tomberez sur cette interface. 
 
-   ![New application ](tuto-images/end.png)
+   ![Résultat finale ](tuto-images/end.png)
 
+## Ajouter le produit messenger à notre application.
+
+   - **Rechercher product au niveau du menu lattéral**  
+   ![Menu l'attérale ](tuto-images/app-id.png)
+   Cliquer sur product pour pouvoir sélectionner le produit que nous voulons ajouter à notre application : Dans notre cas c'est le produit Messenger.
+
+   - **Authorisation et fonctionnalité**  
+   Une fois le produit messenger ajouté vous devez demander certaine authorisation et certaines fonctionnalité en fonction de ce que vous voulez faire avec votre application. Dans notre cas, nous allons demande la fonctionnalité (pages_messaging).L’autorisation pages_messaging permet à votre app de gérer les conversations de Page et d’y accéder dans Messenger.
+   ![Menu l'attérale ](tuto-images/app-id.png)
+   
+## Ajouter le produit messenger à notre application.
+
+Après toutes les étapes précédentes, nous allons recupérer le : 
+App id : L'identifiant unique de votre application 
+Le secret 
+Optener ça dans les paramètre généraux de votre application et noter ces deux informations.
 
 ## Place au code
 
