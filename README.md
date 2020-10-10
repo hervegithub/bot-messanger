@@ -43,6 +43,23 @@ Nous allons maintenant procéder à la création d'une application depuis notre 
 
  1. Accéder au compte développeur 
  2. Cliquer sur créer une application 
+
+  Lorque que vous vous connectez, vous tomberez sur cette page contenant ce bouton pour créer une nouvelle application.
+  ![New application ](tuto-images/facebook-new-app.png)
+
+   En cliquant sur new app, ce formulaire s'ouvrira vous demandans des précisions sur 
+   l'utilisation que vous allez faire de votre application. Dans cette page nous choisirons la première option (Gérer les intégrations professionnelles) 
+
+   ![New application ](tuto-images/usage.png)
+
+   En suite créer l'id de l'application en remplissant le formulaire suivant. 
+
+   ![New application ](tuto-images/app-id.png)
+
+   Renseigner le nom d'usage de l'application et le but de votre application. Comme but, nous allons choisir (Vous même et votre entreprise). Après cette étape, vous tomberez sur cette interface. 
+
+   ![New application ](tuto-images/end.png)
+
  3. Créer l'id de l'application en renseignant les informations comme indiquer ci-dessous. 
 
 
