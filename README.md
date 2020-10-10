@@ -42,6 +42,10 @@ Vous pouvez créer un nouveau compte développeur en accédant  [en cliquant ici
 Nous allons maintenant procéder à la création d'une application depuis notre compte développeur. 
 
  1. Accéder au compte développeur 
+
+Connectez-vous à votre compte [en cliquant ici](https://developers.facebook.com/). Si vous n'avez pas encore un compte, créez-en. 
+
+
  2. Cliquer sur créer une application 
 
   Lorque que vous vous connectez, vous tomberez sur cette page contenant ce bouton pour créer une nouvelle application.
@@ -59,8 +63,6 @@ Nous allons maintenant procéder à la création d'une application depuis notre 
    Renseigner le nom d'usage de l'application et le but de votre application. Comme but, nous allons choisir (Vous même et votre entreprise). Après cette étape, vous tomberez sur cette interface. 
 
    ![New application ](tuto-images/end.png)
-
- 3. Créer l'id de l'application en renseignant les informations comme indiquer ci-dessous. 
 
 
 ## Place au code
