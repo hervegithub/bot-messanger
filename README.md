@@ -67,12 +67,12 @@ Connectez-vous à votre compte [en cliquant ici](https://developers.facebook.com
 ## Ajouter le produit messenger à notre application.
 
    - **Rechercher product au niveau du menu lattéral**  
-   ![Menu l'attérale ](tuto-images/app-id.png)
+   ![Menu l'attérale ](tuto-images/product.png)
    Cliquer sur product pour pouvoir sélectionner le produit que nous voulons ajouter à notre application : Dans notre cas c'est le produit Messenger.
 
    - **Authorisation et fonctionnalité**  
    Une fois le produit messenger ajouté vous devez demander certaine authorisation et certaines fonctionnalité en fonction de ce que vous voulez faire avec votre application. Dans notre cas, nous allons demande la fonctionnalité (pages_messaging).L’autorisation pages_messaging permet à votre app de gérer les conversations de Page et d’y accéder dans Messenger.
-   ![Menu l'attérale ](tuto-images/app-id.png)
+   ![Menu l'attérale ](tuto-images/auth.png)
    
 ## Ajouter le produit messenger à notre application.
 
